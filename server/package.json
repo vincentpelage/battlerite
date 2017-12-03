@@ -1,0 +1,17 @@
+{
+  "name": "React-E08-challenge-decouverte-axios",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "",
+  "author": "Maxime Vasse <mallaxoz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.17.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.12.4"
+  }
+}
